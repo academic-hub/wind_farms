@@ -1,3 +1,4 @@
 ocs_academic_hub==1.0.1
 plotly
 sklearn
+pandas
